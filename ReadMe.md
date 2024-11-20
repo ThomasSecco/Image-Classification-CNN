@@ -62,7 +62,7 @@ Each image is a **28x28 grayscale image**.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Image-Classification-CNN.git
+git clone https://github.com/ThomasSecco/Image-Classification-CNN.git
 cd Image-Classification-CNN
 
 ```
